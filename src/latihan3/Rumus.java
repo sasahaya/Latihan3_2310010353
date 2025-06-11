@@ -6,5 +6,9 @@ package latihan3;
 //kelas : 4D BJB
 
 public class Rumus {
+    int sisi;
+    int panjang;
+    int lebar;
+    int hasil;
     
 }
