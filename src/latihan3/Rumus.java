@@ -11,4 +11,11 @@ public class Rumus {
     int lebar;
     int hasil;
     
+    public void hitungluaspersegi(){
+        hasil = sisi * sisi;
+    }
+    
+    public void hitungluaspersegipanjang(){
+        hasil = panjang * lebar;
+    }
 }
